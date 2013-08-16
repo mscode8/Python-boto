@@ -7,4 +7,5 @@ install:
   - pip install --use-mirrors -r requirements.txt
 script: python tests/test.py unit
 notifications:
-   on_success: always
+   email: manishas@qhode.com
+          on_success: always
