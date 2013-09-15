@@ -12,7 +12,7 @@ Released: 24-July-2013
         :target: https://crate.io/packages/boto/
 
 ************
-Introduction
+Introduction to Boto
 ************
 
 Boto is a Python package that provides interfaces to Amazon Web Services.
